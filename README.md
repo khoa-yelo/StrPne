@@ -26,5 +26,9 @@ TODO:
 
 T4 genome and annotation obtained from [ncbi](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/006/885/GCF_000006885.1_ASM688v1/)
 
+D39 genome and annotation obtained from [ncbi](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/014/365/GCF_000014365.2_ASM1436v2/), as indicated in Pedram (2020) paper
+
+R6 genome and annotation obtained from [ncbi](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/007/045/GCF_000007045.1_ASM704v1/), as indicated in Dias (2019) paper
+
 TODO:
 - Run CarveMe
